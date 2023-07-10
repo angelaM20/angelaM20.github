@@ -17,13 +17,13 @@ nav{
 	align-items: center;
 }
 body > section.header > nav > div > ul > li > a{
-	font-size: 70px;
+	font-size: 25px;
 	font-weight: bold;
 	color: #0f5627;
 	padding: 10px;
 }
 body > section.header > nav > div > ul{
-	margin-right: 200px;
+	margin-right: 100px;
 	padding-right: 100px;
 }
 .nav-links{
@@ -40,7 +40,7 @@ body > section.header > nav > div > ul{
 	padding-right: 5px;
 }
 .nav-links ul li a:hover{
-	opacity: 50%;
+	opacity: 60%;
 }
 .text-box{
 	width:90%;
@@ -52,10 +52,10 @@ body > section.header > nav > div > ul{
 	text-align: center;
 }
 .text-box h1{
-	font-size: 90px;
+	font-size: 40px;
 }
 body > section.header > div > p{
-	font-size: 60px;
+	font-size: 20px;
 	color: yellowgreen;
 }
 .home{
@@ -63,23 +63,18 @@ body > section.header > div > p{
 	margin: auto;
 	text-align: center;
 	padding-top: 100px;
-	font-size: 40px;
+	font-size: 25px;
 }
 .home p{
-	font-size: 40px;
+	font-size: 25px;
 	line-height: normal;
 }
 body > section.home > h1{
 	padding-bottom: 20px;
 }
-h1{
-	font-size: 36ox;
-	font-weight: 600;
-}
 p{
 	color:#777;
-	font-size: 14px;
-	font-weight: 300px;
+	font-size: 10px;
 	line-height: 22px;
 	padding: 10px;
 }
@@ -112,7 +107,7 @@ h3{
 	padding-top: 50px;
 }
 .vacations h1{
-	font-size: 50px;
+	font-size: 20px;
 }
 .summer-col{
 	flex-basis: 32%;
@@ -125,9 +120,6 @@ h3{
  height: 100%;
  width:100%;
  display: block;
-}
-.vacations-2  h1{
-	font-size: 30px;
 }
 .vacations-2{
 	width: 80%;
@@ -143,9 +135,10 @@ h3{
 }
 .vac-col{
 	flex-basis: 31%;
-	border-radius: 10px;
+	border-radius: 20px;
 	margin-bottom: 5%;
 	text-align: left;
+	margin-top: -30px;
 }
 .vac-col img{
 	height: 100%;
